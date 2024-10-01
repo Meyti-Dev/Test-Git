@@ -6,3 +6,7 @@ function clickHandler() {
 function sayHi() {
     return "Hi";
 }
+
+function getUers() {
+    return "users";
+}
