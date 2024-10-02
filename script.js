@@ -10,3 +10,7 @@ function sayHi() {
 function getUers() {
     return "users";
 }
+
+function fixBug() {
+    return "current user";
+}
